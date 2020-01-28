@@ -1,0 +1,43 @@
+body {
+}
+
+/*section-A styles*/
+#section-a h1{
+    text-align: center;
+}
+
+#section-a .row {
+    margin-top: 20px;
+}
+#section-a .card{
+    background-color: #c82333;
+    font-weight: bolder;
+    font-family: monospace;
+    font-size: 0.8em;
+}
+#section-a .card img{
+    width: 100%;
+    height: 200px;
+}
+
+#section-a .card:hover{
+    box-shadow: 2px 2px 2px 2px #dc3d3e;
+}
+
+#section-a .card img:hover{
+   opacity: 0.5;
+}
+
+/*section-B styles*/
+#section-b{
+    background-color: #dc0046;
+    text-align: center;
+    margin: 20px;
+    padding: 60px 0 10px 0;
+    font-family: monospace;
+    background-image: url("../images/cyberpunk.jpg");
+    background-size: cover;
+    color: #dc1567;
+    background-position: center bottom;
+    height: 75vh;
+}
