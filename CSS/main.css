@@ -41,3 +41,28 @@ body {
     background-position: center bottom;
     height: 75vh;
 }
+
+/*styling the login and sign up forms*/
+
+.auth-signup {
+    /*background-color: #c82333;*/
+    padding: 20px;
+    box-shadow: 3px 3px 3px 3px ;
+}
+
+.auth-signup img{
+    width: 250px;
+    height: 300px;
+    border-radius: 50%;
+    border: 3px solid white;
+}
+
+.auth-signup .content-title{
+    text-align: center;
+    font-family: monospace;
+}
+
+.auth-signup hr {
+    padding: 2px;
+    margin: 0;
+}
