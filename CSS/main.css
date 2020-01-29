@@ -44,6 +44,7 @@ body {
 
 /*styling the login and sign up forms*/
 
+
 .auth-signup {
     /*background-color: #c82333;*/
     padding: 20px;
@@ -60,9 +61,11 @@ body {
 .auth-signup .content-title{
     text-align: center;
     font-family: monospace;
+
 }
 
 .auth-signup hr {
     padding: 2px;
     margin: 0;
 }
+
